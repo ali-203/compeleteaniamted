@@ -25,7 +25,12 @@ font-family: "Muli", sans-serif;
 .navbar a:hover {
   color: #3498db !important;
 }
+@media (max-width: 991px) {
+.navbar-brand {
+font-size:1.5rem !important;
+}
 
+}
 /* main*/
 
 #header {
@@ -35,7 +40,7 @@ font-family: "Muli", sans-serif;
 }
 #header h1 {
   margin: 0 0 10px 0;
-  font-size: 48px;
+  font-size: 45px;
   font-weight: 700;
   color: black;
 }
@@ -45,7 +50,7 @@ font-family: "Muli", sans-serif;
 
 #header h2 {
   color: #484848;
-  font-size: 24px;
+  font-size: 20px;
 
 }
 
@@ -66,7 +71,10 @@ font-family: "Muli", sans-serif;
   background: #3498db;
   color: #fff;
 }
-.header .animated {
+.header-img {
+  text-align: right;
+}
+#header .animated {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
 
