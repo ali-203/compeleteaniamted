@@ -61,7 +61,7 @@ return (
      value={data.phone}
      onChange={InputEvent}
 
-     placeholder="name@example.com"/>
+     placeholder="phone Number"/>
 </div>
 <div classNameName="mb-3">
   <label for="exampleFormControlInput1" className="form-label">Email address</label>
@@ -74,7 +74,7 @@ return (
      onChange={InputEvent}
 
 
-    placeholder="name@example.com"/>
+    placeholder="Email"/>
 </div>
 
 <div className="mb-3">
