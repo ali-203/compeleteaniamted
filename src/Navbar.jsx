@@ -23,7 +23,7 @@ return (
 
            <NavLink activeClassName="menu_active"
             exact 
-            className="nav-link active" aria-current="page" to="/">Home
+            className="nav-link active" aria-current="page" to="/">Home in
           </NavLink>
         </li>
         <li className="nav-item">
