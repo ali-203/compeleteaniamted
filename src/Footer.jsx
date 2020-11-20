@@ -6,7 +6,7 @@ return (
 <>
 
 <footer className="w-100 bg-light text-center">
-    <p>© 2020 ali raza. All Rights Reserved | Terms and  Condition     </p>
+    <p>© 2020 ali raza. All Rights Reserved | Terms and  Conditions     </p>
 </footer>
 
 </>

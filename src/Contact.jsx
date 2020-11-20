@@ -30,7 +30,7 @@ alert(
 return (
     <>
 <div className="my-5">
-    <h1 className="text-center"> Contact US </h1>
+    <h1 className="text-center"> Contact with US </h1>
 </div>
 <div className="container contact_div">
     <div className="row">
