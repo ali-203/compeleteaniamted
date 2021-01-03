@@ -5,7 +5,8 @@ import Card from "./Card";
 const Service = () => {
 return (
     <>
-<div className="my-5">
+<div className="services">
+
     <h1 className="text-center"> Our Service are here </h1>
 </div>
 <div className="container-fluid mb-5">
