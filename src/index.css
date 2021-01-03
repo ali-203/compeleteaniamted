@@ -165,10 +165,13 @@ footer p {
   transform: scaleX(-1);
 }
 .services{
+  display: flex;
   padding-bottom: 100px;
   padding-top: 50px;
-  margin-left: 35%;
+  margin-left: 38%;
     width: 30%;
-    border-radius: 10px;
+  
 
 }
+
+
