@@ -137,7 +137,7 @@ footer p {
   
 
   .my-5 {
-    margin-left:40%;
+    margin-left: 40%;
     width: 20%;
     background: gray;
     padding-bottom: 10px;
@@ -147,7 +147,10 @@ footer p {
     background-color: black;
   }
   .my-5 h1{
-    margin-left: 20px;
+    margin: 5px 5px 5px 10px;
+  ;
+    
+    
 
 
   }
@@ -160,5 +163,9 @@ footer p {
  .form-label:hover{
    font-size: 25px;
    color: gray;
+   
 
  }
+ img:hover {
+  transform: scaleX(-1);
+}

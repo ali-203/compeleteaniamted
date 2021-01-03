@@ -29,13 +29,16 @@ alert(
 
 return (
     <>
+    
 <div className="my-5">
     <h1> Contact with US </h1>
 </div>
 <div className="container contact_div">
     
         <div className="col-md-6 col-10 mx-auto">
+        
             <form className="form" onSubmit={formSubmit}>
+            
             <div className="mb-3">
   <label for="exampleFormControlInput1" className="form-label"> 
   FullName
@@ -61,7 +64,7 @@ return (
      value={data.phone}
      onChange={InputEvent}
 
-     placeholder="phone Number"/>
+     placeholder="Phone Number"/>
 </div>
 <div classNameName="mb-3">
   <label for="exampleFormControlInput1" className="form-label">Email address</label>
