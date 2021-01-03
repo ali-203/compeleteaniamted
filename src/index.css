@@ -134,9 +134,7 @@ footer p {
 
 
   }
-  form {
-    background-color: lightgray;
-  }
+  
 
   .my-5 {
     margin-left:40%;
@@ -153,3 +151,14 @@ footer p {
 
 
   }
+  .container contact_div {
+    background-color: black;
+  }
+ .form:hover{
+   background-color: lightgray;
+ }
+ .form-label:hover{
+   font-size: 25px;
+   color: gray;
+
+ }

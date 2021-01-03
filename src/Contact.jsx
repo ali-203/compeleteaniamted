@@ -33,9 +33,9 @@ return (
     <h1> Contact with US </h1>
 </div>
 <div className="container contact_div">
-    <div className="row">
+    
         <div className="col-md-6 col-10 mx-auto">
-            <form onSubmit={formSubmit}>
+            <form className="form" onSubmit={formSubmit}>
             <div className="mb-3">
   <label for="exampleFormControlInput1" className="form-label"> 
   FullName
@@ -99,7 +99,7 @@ return (
 </form>
         </div>
     </div>
-</div>
+
 
     </>
 
