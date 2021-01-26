@@ -104,7 +104,6 @@ footer p {
   margin: 0;
 }
 
-
 @media (max-width: 991px) {
   #header {
     height: 80vh;
@@ -131,11 +130,7 @@ footer p {
     #header .header-img img {
       width: 70%;
     }
-
-
   }
-  
-
   .my-5 {
     margin-left: 40%;
     width: 20%;
@@ -158,12 +153,6 @@ footer p {
    font-size: 25px;
    color: gray;
  }
- 
-
-
-
-
-
  img:hover {
   transform: scaleX(-1);
 }
