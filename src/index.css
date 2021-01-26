@@ -139,12 +139,11 @@ footer p {
   .my-5 {
     margin-left: 40%;
     width: 20%;
-    background: gray;
     padding-bottom: 10px;
     border-radius: 10px;
   }
   .my-5:hover{
-    background-color: black;
+    background-color: lightcyan;
   }
   .my-5 h1{
     margin: 5px 5px 5px 10px;
@@ -153,14 +152,18 @@ footer p {
     background-color: black;
   }
  .form:hover{
-   background-color: lightgray;
+   background-color: lightcyan;
  }
  .form-label:hover{
    font-size: 25px;
    color: gray;
-   
-
  }
+ 
+
+
+
+
+
  img:hover {
   transform: scaleX(-1);
 }
